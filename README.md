@@ -1,0 +1,2 @@
+# DSP-292X
+Introduction to data science through COVID-19 data exploration. The course focuses on fun interactive ways to introduce data exploration through 1-hour weekly workshops and talks by data scientists who are working on COVID-19 data.  The students will form a multidisciplinary team of 2-3 students in the first two weeks of class. They will select a COVID-19 dataset of their choice with the help of the instructor. They will use this dataset throughout the semester, incrementally working towards a final project by incorporating concepts learned in class.. 
